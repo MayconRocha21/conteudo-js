@@ -8,5 +8,14 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayconRocha21/conteudo-js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MayconRocha21/conteudo-js/issues"
+  },
+  "homepage": "https://github.com/MayconRocha21/conteudo-js#readme"
 }
